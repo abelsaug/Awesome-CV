@@ -29,7 +29,7 @@ You can see [PDF](https://github.com/abelsaug/Awesome-CV/blob/master/examples/re
 
 | Page. 1|
 |:---:|
-| [![Résumé]](https://github.com/abelsaug/Awesome-CV/blob/master/examples/resume.pdf) |
+| [![Résumé](https://github.com/abelsaug/Awesome-CV/blob/master/examples/resume.png)](https://github.com/abelsaug/Awesome-CV/blob/master/examples/resume.pdf) |
 
 
 ## How to Use
