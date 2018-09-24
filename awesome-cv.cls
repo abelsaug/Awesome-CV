@@ -103,7 +103,7 @@
 %-------------------------------------------------------------------------------
 %% Page Layout
 % Configure page margins with geometry
-\geometry{left=1.0cm, top=2cm, right=2.0cm, bottom=0.6cm, footskip=.5cm}
+\geometry{left=1.7cm, top=1.5cm, right=1.7cm, bottom=0.6cm, footskip=.5cm}
 
 %% Header & Footer
 % Set offset to each header and footer
@@ -145,7 +145,7 @@
 \definecolor{awesome-nephritis}{HTML}{27AE60}
 \definecolor{awesome-concrete}{HTML}{95A5A6}
 \definecolor{awesome-darknight}{HTML}{131A28}
-\colorlet{awesome}{awesome-skyblue}
+\colorlet{awesome}{black}
 
 % Boolean value to switch section color highlighting
 \newbool{acvSectionColorHighlight}
@@ -376,8 +376,8 @@
 \newcommand{\acvHeaderAfterQuoteSkip}{5mm}
 
 % Others
-\newcommand{\acvSectionTopSkip}{2.5mm}
-\newcommand{\acvSectionContentTopSkip}{2.5mm}
+\newcommand{\acvSectionTopSkip}{2mm}
+\newcommand{\acvSectionContentTopSkip}{2mm}
 
 
 %-------------------------------------------------------------------------------
