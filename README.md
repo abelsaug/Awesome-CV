@@ -63,7 +63,6 @@ This should result in the creation of ``{your-cv}.pdf``
 
 
 ## Donate
-
 Please help keep this project alive! Donations are welcome and will go towards further development of this project.
 
     PayPal: paypal.me/posquit0
